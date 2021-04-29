@@ -3,7 +3,7 @@ package hu.nive.ujratervezes.kepesitovizsga.army;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
+
 
 public class Army {
 
