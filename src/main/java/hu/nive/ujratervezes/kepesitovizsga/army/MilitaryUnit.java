@@ -13,4 +13,3 @@ public abstract class MilitaryUnit {
     public abstract int getHitPoints();
 
 }
-
